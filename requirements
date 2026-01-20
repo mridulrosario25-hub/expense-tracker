@@ -1,0 +1,15 @@
+▶️ How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/mridulrosario25-hub/expense-tracker.git
+
+
+Navigate to the project directory:
+
+cd expense-tracker
+
+
+Run the Streamlit app:
+
+streamlit run app.py
